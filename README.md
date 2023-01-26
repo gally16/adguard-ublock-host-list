@@ -36,3 +36,13 @@
 国外源1：https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-edentw.txt
 国外源2：https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
 
+
+VeleSila/yhosts：https://github.com/VeleSila/yhosts
+复刻自 vokins/yhosts
+欢迎访问 yhosts 的 Wiki “yhosts更轻量，是16年年初全部重新分析代码和嗅探得到的数据。simpleu太臃肿了，我懒得去一一校对数据的准确性了。因为那是一个两年多的数据积累的结果。我之前已经大规模的重写了好几次数据。yhosts采用域名的模式添加数据，适应性更好，平台的兼容性也很好。目前可能数据不够全面或者说过滤性相对较差，但是以后会全力更新yhosts，如果有网站或者软件有广告未能过滤，请提供网站我来分析添加” - Vokins
+自4/18/2020后可以请把网站提供给我。 -VeleSila
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
+
+希望大数据广告远离我https://gitee.com/bigdataleaveme/dontcollectme
+事件https://www.v2ex.com/t/772523
+https://gitee.com/bigdataleaveme/dontcollectme/raw/master/dontcollectme.txt
