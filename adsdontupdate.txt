@@ -41,5 +41,14 @@
 ||Time1.Stupi.SEmsg-as2-o.api.leiniao.com^
 ||newloc.map.n.shifen.com^
 ||ns3.dnsv5.com^
+#自定义
+||cpu.fire.skyworthdigital.jikedata.com^
+||memory.fire.skyworthdigital.jikedata.com^
+||api.ad.xiaomi.com^
+||fork.skyworthdigital.rulew.com^
+||toblog.ctobsnssdk.com^
+||knife.skyworthdigital.rulew.com^
+||spoon.skyworthdigital.sjxrbj.com^
+
 ||ns4.dnsv5.com^
 ||ntp1.huan.tvlauncher.tcloudfamily.com^
