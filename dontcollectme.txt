@@ -1,0 +1,17 @@
+#希望大数据广告远离我
+#请参阅文章“我的电视正在监控所有连接的设备”：
+#https://www.v2ex.com/t/772523
+||gz-data.com^
+||gzads.com^
+||gozendata.com^
+||emar.com^
+||onemob.mobi^
+||reyun.com^
+||71360.com^
+||zhihuiyun.net.cn^
+||www.chance-ad.com^
+||www.nequal.cn^
+||www.n1q.cn^
+||www.nequal.com^
+||ad7.com^
+||gd.xinhuanet.com^
