@@ -1,4 +1,6 @@
-# TCL禁止自动升级https://www.znds.com/tv-1170564-1-1.html
+# TCL禁止自动升级:以下网址就是TCL背后经常光顾的店，将它们（或者一部分，具体是哪些导致升级的我没找到）加入到路由器的黑名单
+#AdGuard规则
+#https://www.znds.com/tv-1170564-1-1.html
 ||wx.tcloudfamily.com^
 ||0.centos.pool.ntp.org^
 ||899199172.p23.tc.cdntip.com^
