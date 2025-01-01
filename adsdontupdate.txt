@@ -173,3 +173,13 @@
 ||vipauth.hpplay.cn^
 ||vipsdkauth.hpplay.cn^
 ||vv.play.aiseet.atianqi.com^
+||openapi.shafa.com^
+||package.cdn.box.xiaomi.com^
+||pwupdate.cdn.pandora.xiaomi.com^
+||xmupdate.cdn.pandora.xiaomi.com^
+||file.market.xiaomi.com^
+||image.cdn.pandora.xiaomi.com^
+||gimg.cdn.pandora.xiaomi.com^
+||g.cdn.pandora.xiaomi.com^
+||package.wallpaper.cdn.pandora.xiaomi.com^
+||otherupdate.cdn.pandora.xiaomi.com^
