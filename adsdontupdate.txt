@@ -117,7 +117,6 @@
 ||jellyfish.pandora.xiaomi.com^
 ||leboapi.hpplay.com.cn^
 ||logonext.tv.kuyun.com^
-||market.xiaomi.com^
 ||metok.sys.miui.com^
 ||milink.pandora.xiaomi.com^
 ||misc.in.duokanbox.com^
