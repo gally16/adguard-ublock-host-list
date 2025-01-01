@@ -36,4 +36,5 @@
 ||mishop.pandora.xiaomi.com^
 ||upgrade.mishop.pandora.xiaomi.com^
 ||mitv.tracking.miui.com^
+||adx.v.mitvos.com^
 
