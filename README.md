@@ -36,6 +36,11 @@
 国外源1：https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-edentw.txt
 国外源2：https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
 
+7.1Hosts：https://github.com/badmojr/1Hosts
+Safeguard your device(s) against pesky ads, trackers, 和 malware.
+1Hosts (Lite): https://o0.pages.dev/Lite/adblock.txt
+1Hosts (Pro)：https://o0.pages.dev/Pro/adblock.txt
+
 
 VeleSila/yhosts：https://github.com/VeleSila/yhosts
 复刻自 vokins/yhosts
